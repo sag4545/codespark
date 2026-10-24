@@ -1,16 +1,14 @@
 
 {
-  "id": "/",
+  "id": "./",
   "name": "CodeSpark",
   "short_name": "CodeSpark",
-  "description": "CodeSpark helps you explore coding and build amazing projects.",
+  "description": "CodeSpark — spark your creativity and build amazing projects.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#05052B",
   "theme_color": "#4F46E5",
-  "lang": "en",
   "icons": [
     {
       "src": "./icons/codespark-192.png",
@@ -23,12 +21,6 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
-    },
-    {
-      "src": "./icons/codespark-512-maskable.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
     }
   ]
 }
